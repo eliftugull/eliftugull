@@ -2,6 +2,12 @@
 -I am a software developer with great passion and energy for the world of front-end development. I am constantly trying to improve myself by learning and applying HTML, CSS, Bootstrap, JavaScript and React technologies. I am working on new projects to further develop my CSS and JavaScript skills. I aim to develop React applications and gain a better understanding of React.
 
 
+
+- 🔭 I’m currently working on **HTML, CSS, BOOTSTRAP, SCSS, SASS, JAVASCRIPT, REACT**
+
+- 🌱 I’m currently learning **JAVACSRIPT**
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eliftugull) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eliftugul) 
 - 📫 How to reach me **eliftugull@gmail.com**
