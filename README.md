@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Elif Tuğul</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+-I am a software developer with great passion and energy for the world of front-end development. 
+I am constantly trying to improve myself by learning and applying HTML, CSS, Bootstrap, JavaScript and React technologies.
+I am working on new projects to further develop my CSS and JavaScript skills.
+I aim to develop React applications and gain a better understanding of React.
 
 - 🔭 I’m currently working on **Html, Css, Javascript**
 
